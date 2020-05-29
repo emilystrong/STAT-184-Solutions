@@ -1,4 +1,4 @@
 # STAT-184-Solutions
 
 
-Rstudio
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
