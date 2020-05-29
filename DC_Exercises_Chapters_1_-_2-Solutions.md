@@ -689,7 +689,3 @@ The categorial variables are
 ## Part (e)
 
 The units of `air_time` are minutes. The units of `distance` are miles.
-
-cd username.github.io
-
-echo “Hello World” \> index.html
