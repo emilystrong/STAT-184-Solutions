@@ -1,5 +1,4 @@
-# myrepo
-Test Setup
+# STAT-184-Solutions
 
 
 Rstudio
