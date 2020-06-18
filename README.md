@@ -8,3 +8,6 @@
 [D&C Chapters 5&6 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapters_5_-_6_Solutions.html)
 
 [D&C Chapter 7 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapter_7_Solutions.html)
+
+[D&C Chapter 10 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapter_10_Solutions.html)
+
