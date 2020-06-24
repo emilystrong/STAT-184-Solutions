@@ -11,3 +11,4 @@
 
 [D&C Chapter 10 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapter_10_Solutions.html)
 
+[D&C Chapter 11 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapter_11_Solutions.html)
