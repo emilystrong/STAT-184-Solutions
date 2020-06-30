@@ -14,3 +14,7 @@
 [D&C Chapter 11 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapter_11_Solutions.html)
 
 [Bird Species Activity Solutions](https://emilystrong.github.io/STAT184/Activity_Bird_Species.html)
+
+[D&C Chapter 8 Exercise Solutions](https://emilystrong.github.io/STAT184/DC_Exercises_Chapter_8_Solutions.html)
+
+
